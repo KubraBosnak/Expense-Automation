@@ -1,0 +1,66 @@
+[
+  {
+    "id": "98a3c56e-9ccd-48df-a181-211840298d8c",
+    "tamAdi": "kubra",
+    "kullaniciAdi": "kubra",
+    "sifre": "qwe",
+    "tipi": 0,
+    "yoneticiId": null
+  },
+  {
+    "id": "f420f7df-06c3-4a00-bb27-7d90f489c6d2",
+    "tamAdi": "irem",
+    "kullaniciAdi": "irem",
+    "sifre": "qwe",
+    "tipi": 2,
+    "yoneticiId": null
+  },
+  {
+    "id": "6c81be64-8d22-4039-aec0-eaa29d986379",
+    "tamAdi": "burcu",
+    "kullaniciAdi": "burcu",
+    "sifre": "qwe",
+    "tipi": 1,
+    "yoneticiId": "f420f7df-06c3-4a00-bb27-7d90f489c6d2"
+  },
+  {
+    "id": "14427b65-8da5-454f-9f69-9d8bfb243762",
+    "tamAdi": "dilay",
+    "kullaniciAdi": "dilay",
+    "sifre": "qwe",
+    "tipi": 3,
+    "yoneticiId": "f420f7df-06c3-4a00-bb27-7d90f489c6d2"
+  },
+  {
+    "id": "f20cf96b-e0c2-43ca-bde5-0b07721ece1c",
+    "tamAdi": "ayse",
+    "kullaniciAdi": "ayse",
+    "sifre": "qwe",
+    "tipi": 1,
+    "yoneticiId": "f420f7df-06c3-4a00-bb27-7d90f489c6d2"
+  },
+  {
+    "id": "c0c504ed-d568-4e52-a666-f34e922cf0ad",
+    "tamAdi": "irem2",
+    "kullaniciAdi": "irem2",
+    "sifre": "qwe",
+    "tipi": 2,
+    "yoneticiId": null
+  },
+  {
+    "id": "7cc8f8b7-a951-440f-91b8-7b5bd846506f",
+    "tamAdi": "burcu2",
+    "kullaniciAdi": "burcu2",
+    "sifre": "qwe",
+    "tipi": 1,
+    "yoneticiId": "c0c504ed-d568-4e52-a666-f34e922cf0ad"
+  },
+  {
+    "id": "5a1d12c2-6344-4a31-a24a-10b2f4689ecd",
+    "tamAdi": "dilay2",
+    "kullaniciAdi": "dilay2",
+    "sifre": "qwe",
+    "tipi": 3,
+    "yoneticiId": "c0c504ed-d568-4e52-a666-f34e922cf0ad"
+  }
+]

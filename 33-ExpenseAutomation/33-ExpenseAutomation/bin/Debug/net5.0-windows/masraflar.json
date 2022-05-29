@@ -1,0 +1,326 @@
+[
+  {
+    "id": "77130bbc-6a50-4ab8-b2d0-bc90ed9250b9",
+    "masrafTipi": "Yemek",
+    "fisBilgisi": {
+      "no": "111",
+      "tarih": "2022-05-27T03:44:03.8461085+03:00",
+      "tutar": 20.00
+    },
+    "aciklama": "222",
+    "durumu": 2,
+    "kullaniciId": "0f289ffe-a5a4-419d-afe7-b026e4833e5d"
+  },
+  {
+    "id": "6f36b142-e26e-4cc6-8270-8c5cbcf49f0c",
+    "masrafTipi": "Yemek",
+    "fisBilgisi": {
+      "no": "www",
+      "tarih": "2022-05-05T22:28:04",
+      "tutar": 23
+    },
+    "aciklama": "333",
+    "durumu": 0,
+    "kullaniciId": "0f289ffe-a5a4-419d-afe7-b026e4833e5d"
+  },
+  {
+    "id": "a71652f0-4c9c-473b-b4bd-fea229097860",
+    "masrafTipi": "yol paras\u0131",
+    "fisBilgisi": {
+      "no": "wwweee",
+      "tarih": "2022-05-18T22:28:04",
+      "tutar": 44
+    },
+    "aciklama": "333",
+    "durumu": 0,
+    "kullaniciId": "0f289ffe-a5a4-419d-afe7-b026e4833e5d"
+  },
+  {
+    "id": "35f3989d-605d-4e3e-857a-637da88cb71d",
+    "masrafTipi": "Yemek",
+    "fisBilgisi": {
+      "no": "111",
+      "tarih": "2022-05-29T16:33:04.4916117+03:00",
+      "tutar": 100
+    },
+    "aciklama": "11",
+    "durumu": 0,
+    "kullaniciId": "8474dde5-6fbf-4f61-bfb3-860507006050"
+  },
+  {
+    "id": "f05264df-a4e5-4f77-b8de-325b8c5d15ac",
+    "masrafTipi": "Yemek",
+    "fisBilgisi": {
+      "no": "1111",
+      "tarih": "2022-05-04T16:38:38",
+      "tutar": 12
+    },
+    "aciklama": "s",
+    "durumu": 0,
+    "kullaniciId": "f20cf96b-e0c2-43ca-bde5-0b07721ece1c"
+  },
+  {
+    "id": "0dc74be2-49d2-4644-93cb-490ce5e08df3",
+    "masrafTipi": "Yemek",
+    "fisBilgisi": {
+      "no": "333",
+      "tarih": "2022-05-18T16:38:38",
+      "tutar": 45
+    },
+    "aciklama": "s",
+    "durumu": 1,
+    "kullaniciId": "f20cf96b-e0c2-43ca-bde5-0b07721ece1c"
+  },
+  {
+    "id": "d625aa7d-7585-400c-9ad2-fecc0036f74a",
+    "masrafTipi": "Yemek",
+    "fisBilgisi": {
+      "no": "112",
+      "tarih": "2022-05-29T16:45:41.3543933+03:00",
+      "tutar": 23
+    },
+    "aciklama": "1",
+    "durumu": 2,
+    "kullaniciId": "14427b65-8da5-454f-9f69-9d8bfb243762"
+  },
+  {
+    "id": "b0a13973-fa1d-4cff-99d0-c75d30d78271",
+    "masrafTipi": "Yemek",
+    "fisBilgisi": {
+      "no": "11212",
+      "tarih": "2022-05-29T16:45:41.3543933+03:00",
+      "tutar": 45
+    },
+    "aciklama": "1",
+    "durumu": 0,
+    "kullaniciId": "14427b65-8da5-454f-9f69-9d8bfb243762"
+  },
+  {
+    "id": "5a0bbbe5-ccb8-40ce-b402-7a3316890235",
+    "masrafTipi": "yol paras\u0131",
+    "fisBilgisi": {
+      "no": "sss",
+      "tarih": "2022-05-11T17:06:25",
+      "tutar": 100
+    },
+    "aciklama": "",
+    "durumu": 3,
+    "kullaniciId": "f420f7df-06c3-4a00-bb27-7d90f489c6d2"
+  },
+  {
+    "id": "fe70a445-f3b8-43ac-870b-4958ff14a569",
+    "masrafTipi": "Yemek",
+    "fisBilgisi": {
+      "no": "1223",
+      "tarih": "2022-05-11T17:17:40",
+      "tutar": 34
+    },
+    "aciklama": "4",
+    "durumu": 1,
+    "kullaniciId": "6c81be64-8d22-4039-aec0-eaa29d986379"
+  },
+  {
+    "id": "1852b7f4-a0d9-4603-b45d-d3cfe64bb8e0",
+    "masrafTipi": "Yemek",
+    "fisBilgisi": {
+      "no": "1223",
+      "tarih": "2022-05-11T17:17:40",
+      "tutar": 34
+    },
+    "aciklama": "4",
+    "durumu": 2,
+    "kullaniciId": "6c81be64-8d22-4039-aec0-eaa29d986379"
+  },
+  {
+    "id": "efb30100-b239-4ae5-9563-60948d0564d7",
+    "masrafTipi": "Yemek",
+    "fisBilgisi": {
+      "no": "1223",
+      "tarih": "2022-05-11T17:17:40",
+      "tutar": 34
+    },
+    "aciklama": "4",
+    "durumu": 0,
+    "kullaniciId": "6c81be64-8d22-4039-aec0-eaa29d986379"
+  },
+  {
+    "id": "a5b604e5-54f6-4e7e-a787-a4735e12ace4",
+    "masrafTipi": "Yemek",
+    "fisBilgisi": {
+      "no": "1223",
+      "tarih": "2022-05-11T17:17:40",
+      "tutar": 34
+    },
+    "aciklama": "4",
+    "durumu": 0,
+    "kullaniciId": "6c81be64-8d22-4039-aec0-eaa29d986379"
+  },
+  {
+    "id": "9e4f6ff4-5710-46f5-ae39-91c22ab71a1f",
+    "masrafTipi": "Yemek",
+    "fisBilgisi": {
+      "no": "1223",
+      "tarih": "2022-05-11T17:17:40",
+      "tutar": 34
+    },
+    "aciklama": "4",
+    "durumu": 0,
+    "kullaniciId": "6c81be64-8d22-4039-aec0-eaa29d986379"
+  },
+  {
+    "id": "c030d8aa-138e-4ce2-b7d8-dd60fdd56999",
+    "masrafTipi": "Yemek",
+    "fisBilgisi": {
+      "no": "1223",
+      "tarih": "2022-05-11T17:17:40",
+      "tutar": 34
+    },
+    "aciklama": "4",
+    "durumu": 0,
+    "kullaniciId": "6c81be64-8d22-4039-aec0-eaa29d986379"
+  },
+  {
+    "id": "a3e33526-0c81-425b-9620-c6c26e5db7fd",
+    "masrafTipi": "Yemek",
+    "fisBilgisi": {
+      "no": "121",
+      "tarih": "2022-05-29T17:19:40.365747+03:00",
+      "tutar": 33
+    },
+    "aciklama": "",
+    "durumu": 0,
+    "kullaniciId": "6c81be64-8d22-4039-aec0-eaa29d986379"
+  },
+  {
+    "id": "69e09569-6bac-4cfa-a41f-ff4f3be38c82",
+    "masrafTipi": "Yemek",
+    "fisBilgisi": {
+      "no": "121",
+      "tarih": "2022-05-29T17:19:40.365747+03:00",
+      "tutar": 33
+    },
+    "aciklama": "33",
+    "durumu": 0,
+    "kullaniciId": "6c81be64-8d22-4039-aec0-eaa29d986379"
+  },
+  {
+    "id": "c2dc32d6-cc70-4802-9363-5d2bc1cd433f",
+    "masrafTipi": "Yemek",
+    "fisBilgisi": {
+      "no": "121",
+      "tarih": "2022-05-29T17:19:40.365747+03:00",
+      "tutar": 33
+    },
+    "aciklama": "33",
+    "durumu": 0,
+    "kullaniciId": "6c81be64-8d22-4039-aec0-eaa29d986379"
+  },
+  {
+    "id": "87dd1b6b-6b9b-4984-a9fd-5dc75d1f946a",
+    "masrafTipi": "Yemek",
+    "fisBilgisi": {
+      "no": "121",
+      "tarih": "2022-05-29T17:19:40.365747+03:00",
+      "tutar": 33
+    },
+    "aciklama": "33",
+    "durumu": 0,
+    "kullaniciId": "6c81be64-8d22-4039-aec0-eaa29d986379"
+  },
+  {
+    "id": "66eda106-a16d-4238-af0f-40727aabee5f",
+    "masrafTipi": "Yemek",
+    "fisBilgisi": {
+      "no": "121",
+      "tarih": "2022-05-29T17:19:40.365747+03:00",
+      "tutar": 33
+    },
+    "aciklama": "33",
+    "durumu": 0,
+    "kullaniciId": "6c81be64-8d22-4039-aec0-eaa29d986379"
+  },
+  {
+    "id": "b87ef07f-c719-40a5-8fc6-b8bbe03ad99a",
+    "masrafTipi": "Yemek",
+    "fisBilgisi": {
+      "no": "121",
+      "tarih": "2022-05-29T17:19:40.365747+03:00",
+      "tutar": 33
+    },
+    "aciklama": "33",
+    "durumu": 0,
+    "kullaniciId": "6c81be64-8d22-4039-aec0-eaa29d986379"
+  },
+  {
+    "id": "bd62d9b8-e5fb-48dc-a2b0-44fa39394f97",
+    "masrafTipi": "Yemek",
+    "fisBilgisi": {
+      "no": "12321",
+      "tarih": "2022-05-29T17:24:25.4631078+03:00",
+      "tutar": 3
+    },
+    "aciklama": "",
+    "durumu": 0,
+    "kullaniciId": "6c81be64-8d22-4039-aec0-eaa29d986379"
+  },
+  {
+    "id": "2ed6e104-75ed-40a8-9fde-2e248c9bf570",
+    "masrafTipi": "Yemek",
+    "fisBilgisi": {
+      "no": "12321",
+      "tarih": "2022-05-29T17:24:25.4631078+03:00",
+      "tutar": 3
+    },
+    "aciklama": "",
+    "durumu": 0,
+    "kullaniciId": "6c81be64-8d22-4039-aec0-eaa29d986379"
+  },
+  {
+    "id": "f842b582-e569-400c-8374-5af46ceaf808",
+    "masrafTipi": "Yemek",
+    "fisBilgisi": {
+      "no": "12321",
+      "tarih": "2022-05-29T17:24:25.4631078+03:00",
+      "tutar": 3
+    },
+    "aciklama": "",
+    "durumu": 0,
+    "kullaniciId": "6c81be64-8d22-4039-aec0-eaa29d986379"
+  },
+  {
+    "id": "ac664820-ecc9-4a2a-819b-99e6a4077303",
+    "masrafTipi": "Yemek",
+    "fisBilgisi": {
+      "no": "12321",
+      "tarih": "2022-05-29T17:24:25.4631078+03:00",
+      "tutar": 3
+    },
+    "aciklama": "",
+    "durumu": 0,
+    "kullaniciId": "6c81be64-8d22-4039-aec0-eaa29d986379"
+  },
+  {
+    "id": "bdd2bca5-923e-4d04-9ba0-df962af6f614",
+    "masrafTipi": "Yemek",
+    "fisBilgisi": {
+      "no": "12321",
+      "tarih": "2022-05-29T17:24:25.4631078+03:00",
+      "tutar": 3
+    },
+    "aciklama": "",
+    "durumu": 0,
+    "kullaniciId": "6c81be64-8d22-4039-aec0-eaa29d986379"
+  },
+  {
+    "id": "80eb2c2a-2868-4794-b1a8-0c098129576e",
+    "masrafTipi": "Yemek",
+    "fisBilgisi": {
+      "no": "12321",
+      "tarih": "2022-05-29T17:24:25.4631078+03:00",
+      "tutar": 3
+    },
+    "aciklama": "ew",
+    "durumu": 0,
+    "kullaniciId": "6c81be64-8d22-4039-aec0-eaa29d986379"
+  }
+]

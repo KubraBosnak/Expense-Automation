@@ -1,0 +1,35 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <RootNamespace>_33_ExpenseAutomation</RootNamespace>
+    <UseWindowsForms>true</UseWindowsForms>
+    <Authors>Kübra BOŞNAK</Authors>
+    <Company>BİLGEADAM</Company>
+    <Product>Masraf Otomasyonu / Expense Automation</Product>
+    <Description>Yapılan harcamaların tutulması ve raporlanması. Yöneticiler çalışanlarının masraflarını onaylar. Onaylanan masraflar muhasebeye gider. Muhasebe ödeme yapınca süreç tamamlanır.</Description>
+    <Copyright>Tüm hakları saklıdır.</Copyright>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="ExcelMapper" Version="5.2.405" />
+    <PackageReference Include="MFramework.Services.FakeData" Version="1.0.18" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Resources.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>
